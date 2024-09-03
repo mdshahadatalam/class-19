@@ -1,0 +1,58 @@
+.on{
+    padding: 9px 20px;
+    border: none;
+    cursor: pointer;
+}
+.off{
+    padding: 9px 20px;
+    border: none;
+    cursor: pointer;
+}
+.balf-sec{
+    background-color: #808080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.on:hover{
+     background-color: rgb(43, 45, 47);
+     color: white;
+}
+.off:hover{
+    background-color: rgb(43, 45, 47);
+    color: white;
+}
+.RanColor{
+    background-color: rgb(43, 45, 47);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.random{
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+.random:hover{
+    background-color: purple;
+    color: white;
+}
+
+.input-rang{
+
+    background-color: #171616;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.rge{
+    width: 850px;
+    
+    
+}
